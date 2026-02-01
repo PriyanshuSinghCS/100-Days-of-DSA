@@ -1,0 +1,12 @@
+# --- Executables & Output ---
+*.exe
+*.dll
+*.so
+*.out
+*.o
+*.obj
+
+# --- VS Code & System Junk ---
+.vscode/
+.DS_Store
+Thumbs.db
